@@ -1,0 +1,16 @@
+プロジェクト名「TRPG」
+プロジェクトID「trpg-f3ce3」
+
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBSfNtdad-mYhVuN52PdBrMooS7nt1XTBI",
+    authDomain: "trpg-f3ce3.firebaseapp.com",
+    databaseURL: "https://trpg-f3ce3.firebaseio.com",
+    projectId: "trpg-f3ce3",
+    storageBucket: "",
+    messagingSenderId: "992990344270"
+  };
+  firebase.initializeApp(config);
+</script>
